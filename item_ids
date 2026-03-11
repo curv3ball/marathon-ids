@@ -43,3 +43,9 @@ v11 punch | standard | 0x3E3BF649
 volt battery | standard | 0x80A69593
 overrun ar | enhanced | 0x0
 os debug | standard | 0x80A6932E
+data card | standard | 0x80A68460
+data card | enhanced | 0x80A68460
+subdermal listener | standard | 0x80A68F88
+folio searchable | standard | 0x80A69D39
+spoiled rations | standard | 0x80A68F88
+proximity sensor | enhanced | 0x80A6900B
