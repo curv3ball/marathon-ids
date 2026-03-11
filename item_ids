@@ -41,3 +41,5 @@ usec field gear | standard | 0x80A4A78A
 usec limited gear | standard | 0x80A4A78A
 v11 punch | standard | 0x3E3BF649
 volt battery | standard | 0x80A69593
+overrun ar | enhanced | 0x0
+os debug | standard | 0x80A6932E
