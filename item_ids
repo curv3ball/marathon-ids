@@ -6,9 +6,11 @@ bully smg | deluxe | 0x1
 bully smg | enhanced | 0x1
 bully smg | standard | 0x1
 claymore mine | standard | 0x80A4A776
+credits | standard | 0x80A69B5F
 dead player bag | standard | 0x80AA6296
 depleted patch kit | standard | 0x80A6900B
 depleted shield charge | standard | 0x80A68280
+distance runner v4 schema | superior | 0x80A68247
 empty drink container | standard | 0x80A6994B
 heat grenade | enhanced | 0x80A6900B
 heavy rounds | standard | 0x80A69953
@@ -16,6 +18,7 @@ light rounds | standard | 0x80A69C4E
 lockbox key | enhanced | 0x80A6838B
 m77 assault rifle | deluxe | 0x0
 matter fixative | gold | 0x80A68460
+mechanics kit | standard | 0x80A69D67
 nameless organ | enhanced | 0x80A69871
 nimble fingers v3 | deluxe | 0x80A69D71
 panacea kit | superior | 0x80A68C8E
@@ -26,9 +29,14 @@ retaliator lmg | enhanced | 0x80A68308
 retaliator lmg | standard | 0x3E45D834
 self-revive | deluxe | 0x80A69C99
 shield charge | enhanced | 0x80A69C03
+smoke grenade | standard | 0x80A69CBB
 sparkleaf (world) | enhanced | 0x80ADF2A4
 sparkleaf | enhanced | 0x80A699D2
+stack overflow | enhanced | 0x80AA6296
+stack overflow | standard | 0x80A68C59
 surveillance mirror | enhanced | 0x80A68F88
+unstable diode | standard | 0x80A69D67
+unstable gunmetal | standard | 0x80A688B5
 usec field gear | standard | 0x80A4A78A
 usec limited gear | standard | 0x80A4A78A
 v11 punch | standard | 0x3E3BF649
