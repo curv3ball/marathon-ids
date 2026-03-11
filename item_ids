@@ -46,6 +46,12 @@ os debug | standard | 0x80A6932E
 data card | standard | 0x80A68460
 data card | enhanced | 0x80A68460
 subdermal listener | standard | 0x80A68F88
-folio searchable | standard | 0x80A69D39
+folio | searchable | 0x80A69D39
 spoiled rations | standard | 0x80A68F88
 proximity sensor | enhanced | 0x80A6900B
+tool cart | searchable | 0x80A68460
+trunk | searchable | 0x80A69D39
+amygdala drive | deluxe | 0x80A69B5F
+bioprinter | searchable | 0x80A4A78A
+rations certificate | standard | 0x80A69D39
+box of keepsakes | enhanced | 0x80A68C59
