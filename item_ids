@@ -46,7 +46,7 @@ os debug | standard | 0x80A6932E
 data card | standard | 0x80A68460
 data card | enhanced | 0x80A68460
 subdermal listener | standard | 0x80A68F88
-folio | searchable | 0x80A69D39
+folio (big) | searchable | 0x80A69D39
 spoiled rations | standard | 0x80A68F88
 proximity sensor | enhanced | 0x80A6900B
 tool cart | searchable | 0x80A68460
@@ -56,3 +56,8 @@ bioprinter | searchable | 0x80A4A78A
 rations certificate | standard | 0x80A69D39
 box of keepsakes | enhanced | 0x80A68C59
 storage drive | enhanced | 0x80A69A0B
+b. strauss, on ai | deluxe | 0x80A68280
+empty med cooler | standard | 0x80A69511
+rocket start | standard | 0x80A68C50
+folio (small) | searchable | 0x80A68280
+heat sink | enhanced | 0x80A68C59
