@@ -1,64 +1,25 @@
-16x ammo backpack | deluxe | 0x80A698A3
-8x ammo backpack | deluxe | 0x80A699FA
-8x backpack | enhanced | 0x80A68816
-8x med backpack | deluxe | 0x80A6903D
-bully smg | deluxe | 0x1
-bully smg | enhanced | 0x1
-bully smg | standard | 0x1
-claymore mine | standard | 0x80A6965A
-credits | standard | 0x80A69B5F
-dead player bag | standard | 0x80AA6296
-depleted patch kit | standard | 0x80A6900B
-depleted shield charge | standard | 0x80A68280
-distance runner v4 schema | superior | 0x80A68247
-empty drink container | standard | 0x80A6994B
-heat grenade | enhanced | 0x80A6900B
-heavy rounds | standard | 0x80A69953
-light rounds | standard | 0x80A69C4E
-lockbox key | enhanced | 0x80A6838B
-m77 assault rifle | deluxe | 0x0
-matter fixative | gold | 0x80A68460
-mechanics kit | standard | 0x80A69D67
-nameless organ | enhanced | 0x80A69871
-nimble fingers v3 | deluxe | 0x80A69D71
-panacea kit | superior | 0x80A68C8E
-patch kit | enhanced | 0x80A69C2D
-protector v1 | enhanced | 0x80A6873C
-retaliator lmg | deluxe | 0x3E45D834
-retaliator lmg | enhanced | 0x80A68308
-retaliator lmg | standard | 0x3E45D834
-self-revive | deluxe | 0x80A69C99
-shield charge | enhanced | 0x80A69C03
-smoke grenade | standard | 0x80A69CBB
-sparkleaf (world) | enhanced | 0x80ADF2A4
-sparkleaf | enhanced | 0x80A699D2
-stack overflow | enhanced | 0x80AA6296
-stack overflow | standard | 0x80A68C59
-surveillance mirror | enhanced | 0x80A68F88
-unstable diode | standard | 0x80A69D67
-unstable gunmetal | standard | 0x80A688B5
-usec field gear | standard | 0x80A4A78A
-usec limited gear | standard | 0x80A4A78A
-v11 punch | standard | 0x3E3BF649
-volt battery | standard | 0x80A69593
-overrun ar | enhanced | 0x0
-os debug | standard | 0x80A6932E
-data card | standard | 0x80A68460
-data card | enhanced | 0x80A68460
-subdermal listener | standard | 0x80A68F88
-folio (big) | searchable | 0x80A69D39
-spoiled rations | standard | 0x80A68F88
-proximity sensor | enhanced | 0x80A6900B
-tool cart | searchable | 0x80A68460
-trunk | searchable | 0x80A69D39
-amygdala drive | deluxe | 0x80A69B5F
-bioprinter | searchable | 0x80A4A78A
-rations certificate | standard | 0x80A69D39
-box of keepsakes | enhanced | 0x80A68C59
-storage drive | enhanced | 0x80A69A0B
-b. strauss, on ai | deluxe | 0x80A68280
-empty med cooler | standard | 0x80A69511
-rocket start | standard | 0x80A68C50
-folio (small) | searchable | 0x80A68280
-heat sink | enhanced | 0x80A68C59
-claymore mine | standard | 0x80A6900B
+8XS Base Pack | 609 | Enhanced | Backpack
+Access Clearance Code [Green] | 565 | Prestige | Priority Item
+Access Clearance Code [Red] | 568 | Prestige | Priority Item
+Access Clearance Code [Yellow] | 567 | Prestige | Priority Item
+BR33 Volley Rifle | 356 | Standard | Weapon
+Cascadian Electronics | 1112 | Standard | Valuable
+Conveyance Request | 561 | Prestige | Priority Item
+Credits | 613 | Standard | Currency
+Data Card [175 EB] | 648 | Enhanced | Currency
+Data Card [20 EB] | 646 | Enhanced | Currency
+Data Card [80 EB] | 647 | Enhanced | Currency
+Dead Player Bag | 24739 | Standard | Body
+Depleted Patch Kit | 625 | Standard | Consumable
+Drone Node | 1097 | Enhanced | Salvage
+Fractal Circut | 1087 | Enhanced | Salvage
+Frag Grenade | 772 | Enhanced | Grenade
+Glass Cannon | 913 | Standard | Core
+Last Resort | 1296 | Standard | Mod
+Light Rounds | 599 | Standard | Ammo
+Longshot | 429 | Enhanced | Weapon
+M77 Assault Rifle | 308 | Superior | Weapon
+Med-Drone Overcharge | 899 | Superior | Core
+Overrun AR | 310 | Standard | Weapon
+Static Caskey | 914 | Standard | Core
+The Big Score | 910 | Standard | Core
